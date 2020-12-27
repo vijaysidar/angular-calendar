@@ -8,5 +8,6 @@ import { View } from '@syncfusion/ej2-angular-schedule';
 })
 export class AppComponent {
   title = 'sampleapp';
+  
   public setView:View='Month';
 }
